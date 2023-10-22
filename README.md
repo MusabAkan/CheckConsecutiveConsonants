@@ -1,1 +1,2 @@
 # CheckConsecutiveConsonants
+Bu program, kullanýcýdan bir metin ifadesi alýr ve her kelime için ardýþýk iki sessiz harf içerip içermediðini kontrol eder. Ardýþýk sessiz harf bulunduðunda true, aksi takdirde false deðeri ekrana yazdýrýlýr.
